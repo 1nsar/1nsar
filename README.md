@@ -2,7 +2,7 @@
 
 Tech Entrepreneur & AI Researcher 
 
-- Founder & Lecturer at **[Research Orda](https://researchorda.com)**  
+- Founder & Lecturer at [Research Orda](https://researchorda.com)  
 - Currently working on [SecondBrain](https://github.com/1nsar/SecondBrain) 🧠
 
 ### 🔗 Let's Connect!  
