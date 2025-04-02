@@ -1,9 +1,9 @@
 ## Hi there! I'm Insar 👋
 
-## Tech Entrepreneur & AI Researcher 
+Tech Entrepreneur & AI Researcher 
 
 - Founder & Lecturer at **[Research Orda](https://researchorda.com)**  
-- Currently working on SecondBrain** 🧠 
+- Currently working on SecondBrain 🧠 
 
 ### 🔗 Let's Connect!  
 Find me on **[LinkedIn](https://www.linkedin.com/in/insarchique/)**
