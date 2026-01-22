@@ -1,5 +1,5 @@
-## Hi there! I'm Insar 👋
-## from Abu Dhabi, UAE 🇦🇪
+## Hi there! I'm Insar 👋 
+$$ Studying at the world's first AI university, in Abu Dhabi, UAE 🇦🇪
 
 Tech Entrepreneur & AI Researcher 
 
