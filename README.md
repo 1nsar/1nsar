@@ -2,7 +2,7 @@
 
 Tech Entrepreneur & AI Researcher 
 
-- Founder & Lecturer at [Research Orda](https://researchorda.com)  
+- Founder & Lecturer at [Research Orda](https://www.instagram.com/researchordakaz/?hl=en)  
 - Currently working on [SecondBrain](https://octopus-a1.vercel.app) 🧠
 
 ### 🔗 Let's Connect!  
