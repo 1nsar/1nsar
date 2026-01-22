@@ -1,4 +1,5 @@
 ## Hi there! I'm Insar 👋
+## from Abu Dhabi, UAE 🇦🇪
 
 Tech Entrepreneur & AI Researcher 
 
