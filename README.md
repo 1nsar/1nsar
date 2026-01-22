@@ -2,7 +2,7 @@
 
 🎓 **Studying at the world’s first AI university in Abu Dhabi, UAE 🇦🇪**  
 
-🚀 **Tech Entrepreneur & AI Researcher**  
+🚀 **Tech Entrepreneur, UI/UX Designer & AI Researcher**  
 
 - Founder & Lecturer at **[Research Orda](https://www.instagram.com/researchordakaz/?hl=en)**  
 - Currently building **[SecondBrain](https://octopus-a1.vercel.app)**  
@@ -12,6 +12,8 @@
 ### 🔗 Let’s Connect  
 - **LinkedIn:** [insarchique](https://www.linkedin.com/in/insarchique/)  
 - **Website:** [insarchique.framer.website](https://insarchique.framer.website)
+- **Behance::** [behance](https://www.behance.net/insartungush)
+
 
 
 
