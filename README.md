@@ -1,13 +1,18 @@
-## Hi there! I'm Insar 👋 
-## Studying at the world's first AI university, in Abu Dhabi, UAE 🇦🇪
+## Hi there! I'm Insar 👋  
 
-Tech Entrepreneur & AI Researcher 
+🎓 **Studying at the world’s first AI university in Abu Dhabi, UAE 🇦🇪**  
 
-- Founder & Lecturer at [Research Orda](https://www.instagram.com/researchordakaz/?hl=en)  
-- Currently working on [SecondBrain](https://octopus-a1.vercel.app) 🧠
+🚀 **Tech Entrepreneur & AI Researcher**  
 
-### 🔗 Let's Connect!  
-Find me on **[LinkedIn](https://www.linkedin.com/in/insarchique/)**
+- 🧠 Founder & Lecturer at **[Research Orda](https://www.instagram.com/researchordakaz/?hl=en)**  
+- 🔬 Currently building **[SecondBrain](https://octopus-a1.vercel.app)**  
+
+---
+
+### 🔗 Let’s Connect  
+- 💼 **LinkedIn:** [insarchique](https://www.linkedin.com/in/insarchique/)  
+- 🌐 **Website:** [insarchique.framer.website](https://insarchique.framer.website)
+
 
 
 <!--
