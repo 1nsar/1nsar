@@ -11,8 +11,6 @@
 
 ### 🔗 Let’s Connect  
 - **LinkedIn:** [insarchique](https://www.linkedin.com/in/insarchique/)  
-- **Website:** [insarchique.framer.website](https://insarchique.framer.website)
-
 
 
 
