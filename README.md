@@ -15,11 +15,11 @@
 - [Samara AI](https://samara-ai.uk) — voice AI that runs live IELTS speaking exams, scores you in real time
 - [Findly](https://getfindly.app) — matches students to scholarships, internships, and grants they'd never find on their own
 - [Wadduha](https://apps.apple.com/app/wadduha-prayer-alarms-more/id6779082467) — prayer times and alarms for Muslims, iOS app
-- [Quran Alias](https://apps.apple.com/app/quran-alias/id6785245846) — a word game that teaches Quranic Arabic, iOS app
+- [Quran Alias](https://apps.apple.com/app/quran-alias/id6785245846) —an Alias-style game for memorizing Quran, iOS app
 
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
-Python · TypeScript · Swift · React / React Native · Next.js · PyTorch · LLM Agents (Claude/OpenAI APIs) · Realtime Voice APIs
+Python · TypeScript · Swift · React / React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
