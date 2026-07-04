@@ -2,7 +2,7 @@
 
 <p align="center">
   <sub>
-    1st Place Microsoft Imagine Cup UAE&nbsp;&nbsp;·&nbsp;&nbsp;MIT EECS Research&nbsp;&nbsp;·&nbsp;&nbsp;Founder, Research Orda&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer @ Antler&nbsp;&nbsp;·&nbsp;&nbsp;HackNU '26 Winner
+    1st Place Microsoft Imagine Cup&nbsp;&nbsp;·&nbsp;&nbsp;MIT EECS Research&nbsp;&nbsp;·&nbsp;&nbsp;Founder, Research Orda&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer @ Antler&nbsp;&nbsp;·&nbsp;&nbsp;HackNU '26 Winner
   </sub>
 </p>
 
