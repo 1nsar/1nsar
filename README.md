@@ -19,7 +19,7 @@
 
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
-Python · TypeScript · React · Next.js · PyTorch · LLM Agents (Claude/OpenAI APIs) · Realtime Voice APIs · PostgreSQL
+Python · TypeScript · Swift · React / React Native · Next.js · PyTorch · LLM Agents (Claude/OpenAI APIs) · Realtime Voice APIs
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
