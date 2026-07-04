@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Insar Tungushbayev — AI Engineer, Builder, Creator">
+  <rect x="0" y="0" width="1200" height="300" rx="14" fill="#0b0907"/>
+
+  <line x1="48" y1="52" x2="1152" y2="52" stroke="#2a2620" stroke-width="1"/>
+
+  <text x="48" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="4" fill="#8a8378">/ HELLO</text>
+
+  <text x="1152" y="40" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8a8378">ABU DHABI — 24.45°N 54.38°E</text>
+
+  <text x="48" y="165" font-family="'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="600" fill="#f2ede4">Insar <tspan font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="400" fill="#d8d1c5">Tungushbayev</tspan></text>
+
+  <text x="48" y="212" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="1" fill="#8a8378">AI Engineer&#160;&#160;·&#160;&#160;Builder&#160;&#160;·&#160;&#160;Creator</text>
+
+  <line x1="48" y1="248" x2="1152" y2="248" stroke="#2a2620" stroke-width="1"/>
+
+  <text x="48" y="276" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8a8378">BSC AI — MBZUAI</text>
+  <text x="1152" y="276" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#8a8378">insarchique.com</text>
+</svg>
