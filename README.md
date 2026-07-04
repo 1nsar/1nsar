@@ -19,7 +19,7 @@
 
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
-Python · TypeScript · Swift · React / React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
+Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
