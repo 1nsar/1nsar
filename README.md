@@ -12,7 +12,7 @@ Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generativ
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
-[insarchique.com](https://insarchique.com) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
+[Orda Agency](https://orda-studio.com/) · [insarchique.com](https://insarchique.com) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
 
 <!--
 **1nsar/1nsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
