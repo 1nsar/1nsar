@@ -6,17 +6,6 @@
   </sub>
 </p>
 
-<img src="assets/s-building.svg" width="100%" alt="Building"/>
-
-- [LINA](https://lina-landing.vercel.app/) — AI companion for pregnancy and the first year of motherhood
-
-<img src="assets/s-shipped.svg" width="100%" alt="Shipped"/>
-
-- [Samara AI](https://samara-ai.uk) — voice AI that runs live IELTS speaking exams, scores you in real time
-- [Findly](https://getfindly.app) — matches students to scholarships, internships, and grants they'd never find on their own
-- [Wadduha](https://apps.apple.com/app/wadduha-prayer-alarms-more/id6779082467) — prayer times and alarms for Muslims, iOS app
-- [Quran Alias](https://apps.apple.com/app/quran-alias/id6785245846) —an Alias-style game for memorizing Quran, iOS app
-
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
 Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
