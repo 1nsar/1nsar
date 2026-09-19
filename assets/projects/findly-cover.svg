@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480" role="img" aria-label="FindLy — From searching to your next opportunity"><title>FindLy — From searching to your next opportunity</title>
+<rect width="840" height="480" fill="#f4f3e9"/>
+<text x="42" y="63" font-family="Arial" font-size="32" font-weight="700" fill="#163d30">FindLy<tspan fill="#669168">.</tspan></text>
+<text x="42" y="144" font-family="Arial" font-size="18" letter-spacing="3" fill="#47604e">YOUR NEXT CHAPTER</text>
+<text x="39" y="216" font-family="Arial" font-size="60" font-weight="700" letter-spacing="-2" fill="#143c2d">Less searching.</text>
+<text x="39" y="283" font-family="Arial" font-size="60" font-weight="700" letter-spacing="-2" fill="#426f4c">More possibilities.</text>
+<path d="M44 326H793" stroke="#cbd4c2"/>
+<text x="44" y="365" font-family="Arial" font-size="23" fill="#4d6254">Match opportunities. Tailor your résumé.</text>
+<text x="44" y="397" font-family="Arial" font-size="23" fill="#4d6254">Apply with less friction.</text>
+<text x="44" y="451" font-family="Arial" font-size="18" fill="#173f2e">getfindly.app</text>
+<g transform="translate(750 429)" stroke="#173f2e" stroke-width="3" fill="none"><path d="M-20 0h38m-13-13 13 13-13 13"/></g>
+</svg>

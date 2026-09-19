@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480" role="img" aria-label="Ranked — Get found in search and AI answers"><title>Ranked — Get found in search and AI answers</title>
+<defs><radialGradient id="glow" cx="100%" cy="0%" r="100%"><stop stop-color="#422d66"/><stop offset=".64" stop-color="#161621"/><stop offset="1" stop-color="#101018"/></radialGradient></defs>
+<rect width="840" height="480" fill="url(#glow)"/>
+<text x="42" y="63" font-family="Arial" font-size="32" font-weight="700" fill="#f5f0fd">Ranked<tspan fill="#b69be7">.</tspan></text>
+<text x="42" y="144" font-family="Arial" font-size="18" letter-spacing="3" fill="#b9a6d7">SEARCH + AI VISIBILITY</text>
+<text x="39" y="216" font-family="Arial" font-size="60" font-weight="700" letter-spacing="-2" fill="#f6f3fd">Be the answer.</text>
+<text x="39" y="283" font-family="Arial" font-size="60" font-weight="700" letter-spacing="-2" fill="#ba9ce8">Get discovered.</text>
+<path d="M44 326H793" stroke="#3f374f"/>
+<text x="44" y="365" font-family="Arial" font-size="23" fill="#c0b9ce">Track rankings, mentions, and AI citations.</text>
+<text x="44" y="397" font-family="Arial" font-size="23" fill="#c0b9ce">Know where to improve next.</text>
+<text x="44" y="451" font-family="Arial" font-size="18" fill="#eee7fb">rankedly.co</text>
+<g transform="translate(750 429)" stroke="#eee7fb" stroke-width="3" fill="none"><path d="M-20 0h38m-13-13 13 13-13 13"/></g>
+</svg>

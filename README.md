@@ -6,6 +6,21 @@
   </sub>
 </p>
 
+<img src="assets/s-projects.svg" width="100%" alt="Projects"/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://getfindly.app/"><img src="assets/projects/findly-cover.svg" width="100%" alt="FindLy — opportunity matching, tailored résumés, and applications"></a>
+      <p><b>FindLy</b> helps students and professionals find relevant opportunities, tailor résumés and cover letters, and autofill applications. Personalized matches arrive by email or Telegram, with tools to track each application. <a href="https://getfindly.app/">Try FindLy →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rankedly.co/"><img src="assets/projects/ranked-cover.svg" width="100%" alt="Ranked — brand visibility across search engines and AI answers"></a>
+      <p><b>Ranked</b> helps brands track and improve their visibility across Google search and AI answers. Monitor rankings, brand mentions, and citations, see the answers that reference your brand, and identify what to improve next. <a href="https://rankedly.co/">Explore Ranked →</a></p>
+    </td>
+  </tr>
+</table>
+
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
 <p>
