@@ -1,5 +1,3 @@
-![Hero](https://coolreadme.xyz/api/hacker?user=1nsar&status=SHIPPING+CODE&accent=%2300FF88)
-
 <img src="assets/banner.svg" width="100%" alt="Insar Tungushbayev — AI Engineer · Builder · Creator"/>
 
 <p align="center">
@@ -17,5 +15,3 @@ Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generativ
 [Orda Agency](https://orda-studio.com/) · [insarchique.com](https://insarchique.com) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
 
 [![I'm listening to Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
-
-![GitHub contribution streak](https://coolreadme.xyz/api/cat-card?user=1nsar)
