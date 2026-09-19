@@ -9,15 +9,21 @@
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
 <p>
-  <img src="assets/stack-icons/python.svg" width="18" height="18" alt=""> Python &nbsp;·&nbsp;
-  <img src="assets/stack-icons/typescript.svg" width="18" height="18" alt=""> TypeScript &nbsp;·&nbsp;
-  <img src="assets/stack-icons/swift.svg" width="18" height="18" alt=""> Swift &nbsp;·&nbsp;
-  <img src="assets/stack-icons/react.svg" width="18" height="18" alt=""> React&nbsp;Native &nbsp;·&nbsp;
-  <img src="assets/stack-icons/nextjs.svg" width="18" height="18" alt=""> Next.js &nbsp;·&nbsp;
-  <img src="assets/stack-icons/pytorch.svg" width="18" height="18" alt=""> PyTorch &nbsp;·&nbsp;
-  <img src="assets/stack-icons/generative.svg" width="18" height="18" alt=""> Generative&nbsp;Models &nbsp;·&nbsp;
-  <img src="assets/stack-icons/agents.svg" width="18" height="18" alt=""> LLM&nbsp;Agents &nbsp;·&nbsp;
-  <img src="assets/stack-icons/fastapi.svg" width="18" height="18" alt=""> FastAPI
+  <img src="assets/stack-icons/python.svg" width="18" height="18" alt="">&nbsp;Python &nbsp;·&nbsp;
+  <img src="assets/stack-icons/typescript.svg" width="18" height="18" alt="">&nbsp;TypeScript &nbsp;·&nbsp;
+  <img src="assets/stack-icons/swift.svg" width="18" height="18" alt="">&nbsp;Swift &nbsp;·&nbsp;
+  <img src="assets/stack-icons/react.svg" width="18" height="18" alt="">&nbsp;React&nbsp;Native &nbsp;·&nbsp;
+  <img src="assets/stack-icons/nextjs.svg" width="18" height="18" alt="">&nbsp;Next.js &nbsp;·&nbsp;
+  <img src="assets/stack-icons/pytorch.svg" width="18" height="18" alt="">&nbsp;PyTorch &nbsp;·&nbsp;
+  <img src="assets/stack-icons/generative.svg" width="18" height="18" alt="">&nbsp;Generative&nbsp;Models
+  <br>
+  <img src="assets/stack-icons/agents.svg" width="18" height="18" alt="">&nbsp;LLM&nbsp;Agents &nbsp;·&nbsp;
+  <img src="assets/stack-icons/fastapi.svg" width="18" height="18" alt="">&nbsp;FastAPI &nbsp;·&nbsp;
+  <img src="assets/stack-icons/tensorflow.svg" width="18" height="18" alt="">&nbsp;TensorFlow &nbsp;·&nbsp;
+  <img src="assets/stack-icons/langgraph.svg" width="18" height="18" alt="">&nbsp;LangGraph &nbsp;·&nbsp;
+  <img src="assets/stack-icons/firebase.svg" width="18" height="18" alt="">&nbsp;Firebase &nbsp;·&nbsp;
+  <img src="assets/stack-icons/numpy.svg" width="18" height="18" alt="">&nbsp;NumPy &nbsp;·&nbsp;
+  <img src="assets/stack-icons/pandas.svg" width="18" height="18" alt="">&nbsp;Pandas
 </p>
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
