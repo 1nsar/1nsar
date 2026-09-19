@@ -17,10 +17,10 @@ Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generativ
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
 <p>
-  <a href="https://orda-studio.com/"><img src="assets/link-badges/orda.svg" height="40" alt="Orda Agency"></a>
-  <a href="https://insarchique.com/"><img src="assets/link-badges/insarchique.svg" height="40" alt="insarchique.com"></a>
-  <a href="https://linkedin.com/in/insarchique"><img src="assets/link-badges/linkedin.svg" height="40" alt="LinkedIn"></a>
-  <a href="https://instagram.com/1nsar_champ"><img src="assets/link-badges/instagram.svg" height="40" alt="Instagram"></a>
+  <a href="https://orda-studio.com/"><img src="assets/link-badges/orda.svg" width="125" height="28" alt="Orda Agency"></a>
+  <a href="https://insarchique.com/"><img src="assets/link-badges/insarchique.svg" width="155" height="28" alt="insarchique.com"></a>
+  <a href="https://linkedin.com/in/insarchique"><img src="assets/link-badges/linkedin.svg" width="102" height="28" alt="LinkedIn"></a>
+  <a href="https://instagram.com/1nsar_champ"><img src="assets/link-badges/instagram-blue.svg" width="118" height="28" alt="Instagram"></a>
 </p>
 
 [![Playing on Spotify: Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player-now-playing.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
