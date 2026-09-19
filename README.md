@@ -11,12 +11,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://getfindly.app/"><img src="assets/projects/findly-cover.svg" width="100%" alt="FindLy — opportunity matching, tailored résumés, and applications"></a>
-      <p><b>FindLy</b> helps students and professionals find relevant opportunities, tailor résumés and cover letters, and autofill applications. Personalized matches arrive by email or Telegram, with tools to track each application. <a href="https://getfindly.app/">Try FindLy →</a></p>
+      <a href="https://getfindly.app/"><img src="assets/projects/findly-cover-v2.png" width="100%" alt="FindLy — your AI copilot for your entire job hunt"></a>
+      <p><b>FindLy</b> is your AI copilot for your entire job hunt. Discover relevant opportunities, build and tailor your résumé, and autofill applications. Keep every application and deadline in view, from your first search to your next move. <a href="https://getfindly.app/"><b>Find your next opportunity →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://rankedly.co/"><img src="assets/projects/ranked-cover.svg" width="100%" alt="Ranked — brand visibility across search engines and AI answers"></a>
-      <p><b>Ranked</b> helps brands track and improve their visibility across Google search and AI answers. Monitor rankings, brand mentions, and citations, see the answers that reference your brand, and identify what to improve next. <a href="https://rankedly.co/">Explore Ranked →</a></p>
+      <a href="https://rankedly.co/"><img src="assets/projects/ranked-cover-v2.png" width="100%" alt="Ranked — brand visibility across search engines and AI answers"></a>
+      <p><b>Ranked</b> helps your brand get discovered across Google search and AI answers. Track rankings, mentions, and citations, see where your brand appears, and turn visibility gaps into clear next steps. Get cited. Get clicked. Get Ranked. <a href="https://rankedly.co/"><b>Get your free visibility score →</b></a></p>
     </td>
   </tr>
 </table>
