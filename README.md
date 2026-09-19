@@ -6,10 +6,6 @@
   </sub>
 </p>
 
-I'm Insar, an AI student at **MBZUAI** in Abu Dhabi. I build AI products, LLM agents, and mobile apps — from early prototypes to launch.
-
-My background spans **MIT EECS research** and **AI engineering at Antler**. I founded **Research Orda** and run **Orda Studio**, building websites, apps, and AI automations.
-
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
 Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
