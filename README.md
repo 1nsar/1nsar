@@ -8,7 +8,17 @@
 
 <img src="assets/s-stack.svg" width="100%" alt="Stack"/>
 
-Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
+<p>
+  <img src="assets/stack-icons/python.svg" width="18" height="18" alt=""> Python &nbsp;·&nbsp;
+  <img src="assets/stack-icons/typescript.svg" width="18" height="18" alt=""> TypeScript &nbsp;·&nbsp;
+  <img src="assets/stack-icons/swift.svg" width="18" height="18" alt=""> Swift &nbsp;·&nbsp;
+  <img src="assets/stack-icons/react.svg" width="18" height="18" alt=""> React&nbsp;Native &nbsp;·&nbsp;
+  <img src="assets/stack-icons/nextjs.svg" width="18" height="18" alt=""> Next.js &nbsp;·&nbsp;
+  <img src="assets/stack-icons/pytorch.svg" width="18" height="18" alt=""> PyTorch &nbsp;·&nbsp;
+  <img src="assets/stack-icons/generative.svg" width="18" height="18" alt=""> Generative&nbsp;Models &nbsp;·&nbsp;
+  <img src="assets/stack-icons/agents.svg" width="18" height="18" alt=""> LLM&nbsp;Agents &nbsp;·&nbsp;
+  <img src="assets/stack-icons/fastapi.svg" width="18" height="18" alt=""> FastAPI
+</p>
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
