@@ -1,33 +1,11 @@
-<img src="assets/banner.svg" width="100%" alt="Insar Tungushbayev — AI Engineer · Builder · Creator"/>
+![Hero](https://coolreadme.xyz/api/hacker?user=1nsar&status=SHIPPING+CODE&accent=%2300FF88)
 
-<p align="center">
-  <sub>
-    1st Place Microsoft Imagine Cup&nbsp;&nbsp;·&nbsp;&nbsp;MIT EECS Research&nbsp;&nbsp;·&nbsp;&nbsp;Founder, Research Orda&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer @ Antler&nbsp;&nbsp;·&nbsp;&nbsp;HackNU '26 Winner
-  </sub>
-</p>
+![Avatar](https://coolreadme.xyz/api/avatar-card?user=1nsar&status=BUILDING&focus=open-source&theme=dark)
 
-<img src="assets/s-stack.svg" width="100%" alt="Stack"/>
+[![I'm listening to Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
 
-Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generative Models · LLM Agents · FastAPI
+<sub>Demo streak card: 42-day streak and 1,240 contributions are sample values, not verified GitHub activity.</sub>
 
-<img src="assets/s-links.svg" width="100%" alt="Links"/>
+![Streak](https://coolreadme.xyz/api/cat-card?user=1nsar&streak=42&longest=42&total=1240)
 
-[Orda Agency](https://orda-studio.com/) · [insarchique.com](https://insarchique.com) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
-
-<!--
-**1nsar/1nsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+[Website](https://insarchique.com/) · [Orda Studio](https://orda-studio.com/) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
