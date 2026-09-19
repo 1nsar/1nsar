@@ -12,6 +12,11 @@ Python · TypeScript · Swift · React Native · Next.js · PyTorch · Generativ
 
 <img src="assets/s-links.svg" width="100%" alt="Links"/>
 
-[Orda Agency](https://orda-studio.com/) · [insarchique.com](https://insarchique.com) · [LinkedIn](https://linkedin.com/in/insarchique) · [Instagram](https://instagram.com/1nsar_champ)
+<p>
+  <a href="https://orda-studio.com/"><img src="assets/link-icons/orda.svg" width="18" height="18" alt=""> Orda Agency</a> &nbsp;·&nbsp;
+  <a href="https://insarchique.com/"><img src="assets/link-icons/insarchique.svg" width="18" height="18" alt=""> insarchique.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/insarchique"><img src="assets/link-icons/linkedin.svg" width="18" height="18" alt=""> LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/1nsar_champ"><img src="assets/link-icons/instagram.svg" width="18" height="18" alt=""> Instagram</a>
+</p>
 
-[![I'm listening to Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player-dark.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
+[![Playing on Spotify: Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player-now-playing.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
