@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://getfindly.app/"><img src="assets/projects/findly-screenshot-v3.png" width="100%" alt="FindLy — your AI copilot for your entire job hunt"></a>
+      <a href="https://getfindly.app/"><img src="assets/projects/findly-screenshot-v4.png" width="100%" alt="FindLy — your AI copilot for your entire job hunt"></a>
       <p><b>FindLy</b> is your AI copilot for your entire job hunt. Discover relevant opportunities, build and tailor your résumé, and autofill applications. Keep every application and deadline in view, from your first search to your next move. <a href="https://getfindly.app/"><b>Find your next opportunity →</b></a></p>
     </td>
     <td width="50%" valign="top">
