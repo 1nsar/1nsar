@@ -49,4 +49,19 @@
   <a href="https://linkedin.com/in/insarchique"><img src="assets/link-badges/linkedin.svg" width="102" height="28" alt="LinkedIn"></a>
 </p>
 
-[![Playing on Spotify: Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player-now-playing.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
+[![On repeat — animated progress: Painted Sun in Abstract — Trent Reznor and Atticus Ross. Listen on Spotify.](assets/spotify-player-on-repeat-v2.gif)](https://open.spotify.com/track/3s7IxbPCt3cVSiGhZ3HwvR)
+
+<img src="assets/s-more-projects.svg" width="100%" alt="More projects"/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/ie/app/seewell/id6806758230"><img src="assets/projects/seewell-framed.png" width="100%" alt="SeeWell — guided micro-breaks for eyes, body and breath"></a>
+      <p><b>SeeWell</b> brings short, guided breaks to your screen-filled day. Make time for your eyes, body, and breath with reminders that fit your schedule, guided exercises, and progress tracking. <a href="https://apps.apple.com/ie/app/seewell/id6806758230"><b>Take your next break with SeeWell →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://orda-studio.com/"><img src="assets/projects/orda-framed.png" width="100%" alt="Orda Studio — websites, apps, AI, design and content"></a>
+      <p><b>Orda Studio</b> is a digital agency for websites, mobile apps, AI agents and automations, brand and UI design, and photo and video content. Bring your idea, and we’ll help turn it into something people can use. <a href="https://orda-studio.com/"><b>Build your next project with us →</b></a></p>
+    </td>
+  </tr>
+</table>
